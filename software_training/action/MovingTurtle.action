@@ -1,0 +1,7 @@
+float32 target_x
+float32 target_y
+---
+uint64 duration
+---
+float32 x_distance
+float32 y_distance
